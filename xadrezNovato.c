@@ -29,7 +29,7 @@ do {
 printf("Jogada do Bispo!!\n");
 
 for (int i = 0; i < 5; i++) {
-    printf("Cima Direita\n");
+    printf("Cima, Direita\n");
    }
 
    
@@ -37,9 +37,9 @@ for (int i = 0; i < 5; i++) {
 
 printf("Jogada da Rainha!!\n");
 
-   for (int i = 1; i <= 5; i++) {
+   for (int i = 1; i <= 8; i++) {
     if (i % 2 == 0) {
-        printf("%d Cima Esquerda\n", i);
+        printf("%d Esquerda\n", i);
     }
     else{
         printf("%d Baixo\n", i);
