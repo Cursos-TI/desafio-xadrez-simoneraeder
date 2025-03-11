@@ -49,3 +49,6 @@ printf("Jogada da Rainha!!\n");
     
     return 0;
 }
+
+
+    
