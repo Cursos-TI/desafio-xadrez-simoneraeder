@@ -9,6 +9,8 @@ int main() {
     printf("Vamos jogar Xadrez!!!\n");
     printf("Torre começa...\n");
 
+    // Mover a Torre
+
 do {
     printf("Digite um número para jogar... 1 a 5 \n");
     scanf("%d", &i);
