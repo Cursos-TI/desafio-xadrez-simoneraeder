@@ -41,10 +41,10 @@ int main() {
     
     for (int i = 1; i < 5; i++) {
         if (i == 3) continue; 
-        if (i == 5) break;   
+        if (i == 4) break;   
         printf("%d, Cima \n", i = 1);
         printf("%d, Cima \n", i = 2);
-        printf("%d, Direita \n", i =4);
+        printf("%d, Direita \n", i = 4 );
        
     }
 
